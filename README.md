@@ -1,0 +1,1 @@
+# Stoch-Klinger-Momentum-Strategy
